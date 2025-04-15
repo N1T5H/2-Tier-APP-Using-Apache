@@ -1,0 +1,8 @@
+INSERT INTO books (title, author, description, sales_rank) VALUES
+('Atomic Habits', 'James Clear', 'An easy & proven way to build good habits & break bad ones.', 1),
+('Getting Things Done', 'David Allen', 'The art of stress-free productivity.', 2),
+('Deep Work', 'Cal Newport', 'Rules for focused success in a distracted world.', 3),
+('The 7 Habits of Highly Effective People', 'Stephen Covey', 'Powerful lessons in personal change.', 4),
+('Essentialism', 'Greg McKeown', 'The disciplined pursuit of less.', 5),
+('The Power of Habit', 'Charles Duhigg', 'Why we do what we do in life and business.', 6),
+('Hyperfocus', 'Chris Bailey', 'How to be more productive in a world of distraction.', 7);
